@@ -1,0 +1,17 @@
+* {
+  font-family: "Roboto Serif", serif;
+}
+
+.post {
+  width:400px;
+  justify-content: center;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-left {
+  display: flex;
+}
